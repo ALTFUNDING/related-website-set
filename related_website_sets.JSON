@@ -1,9 +1,9 @@
 {
   "sets": [
     {
-      "primary": "https://therapist-org-backend-v1.vercel.app",
+      "primary": "https://api.therapist.org",
         "associetedSites": {
-        "https://therapists-admin-dashboard-v1.vercel.app": "This is the Panel", "https://www.therapist.org": "Content Website"
+        "https://admin.therapist.org": "This is the Panel"
       }
     }
   ]
