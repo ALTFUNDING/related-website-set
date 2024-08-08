@@ -5,6 +5,12 @@
         "associetedSites": {
         "https://admin.therapist.org": "This is the Panel"
       }
+    },
+    {
+      "primary": "https://aameetingsbackend.vercel.app",
+        "associetedSites": {
+        "https://aameetingsadmindashboard.vercel.app": "This is the Panel"
+      }
     }
   ]
 }
